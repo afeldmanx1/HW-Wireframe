@@ -3,9 +3,8 @@
     font-size: 18px;
     background: #777;
     text-align: center;
-    /* margin-right: 20%;
-    margin-left: 20%; 
-    items on page get relocated is page is shrunk horizontally */
+    max-width: 960px;
+    margin: auto;
   }
 
   header {
@@ -26,8 +25,8 @@
     float: left;
     padding: 20px;
     height: 250px;
-    /* width: 495px; 
-    aside gets pushed underneath section if webpage is shrunk horizontally */ 
+    /* width: 495px;
+    aside gets pushed underneath section if webpage is shrunk horizontally */
     width:60%;
     margin-right: 20px;
   }
